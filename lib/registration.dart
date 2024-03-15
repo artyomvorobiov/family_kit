@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:google_sign_in/google_sign_in.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:uuid/uuid.dart'; // Import the uuid package
+import 'package:uuid/uuid.dart'; 
 import 'email_verification_page.dart';
 import 'main_screen.dart';
 import '/firebase_constants.dart';
